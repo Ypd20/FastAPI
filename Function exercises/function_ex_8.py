@@ -1,1 +1,0 @@
-print(list(range(4, 30, 2)))
